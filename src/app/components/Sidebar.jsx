@@ -17,8 +17,8 @@ export default function Sidebar() {
       <span className='fond-bold hidden md:inline'>Home</span>
       </Link>
     <button className='bg-blue-400 text-white rounded-full
-    w-48 h-7hover:brightness-95 transition-all
-    duration-200 shadow-md hidden md:inline'>
+    w-48 h-9 hover:brightness-95 transition-all
+    duration-200 shadow-md hidden md:inline font-semibold'>
         Sign In
     </button>
     </div>
